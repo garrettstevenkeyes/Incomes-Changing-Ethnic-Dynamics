@@ -1,0 +1,106 @@
+[
+  {
+    "standings": [
+      {
+      "Black": 36815,
+      "Hispanic": 39742,
+      "Other": 58884,
+      "White": 86229
+    }
+    ],
+    "year": "1989"
+  },
+  {
+    "standings": [
+      {
+      "Black": 39948,
+      "Hispanic": 38383,
+      "Other": 71891,
+      "White": 74108
+      }
+    ],
+    "year": "1992"
+  },
+  {
+    "standings": [
+      {
+      "Black": 36206,
+      "Hispanic": 47993,
+      "Other": 72883,
+      "White": 77506
+      }
+    ],
+    "year": "1995"
+  },
+  {
+    "standings": [{
+      "Black": 41577,
+      "Hispanic": 47620,
+      "Other": 83136,
+      "White": 86656
+    }
+    ],
+    "year": "1998"
+  },
+  {
+    "standings": [{
+      "Black": 50495,
+      "Hispanic": 52716,
+      "Other": 83761,
+      "White": 105968
+    }
+    ],
+    "year": "2001"
+  },
+  {
+    "standings": [{
+      "Black": 49326,
+      "Hispanic": 50540,
+      "Other": 98618,
+      "White": 101369
+    }
+    ],
+    "year": "2004"
+  },
+  {
+    "standings": [{
+      "Black": 53087,
+      "Hispanic": 55349,
+      "Other": 104161,
+      "White": 110394
+    }
+    ],
+    "year": "2007"
+  },
+  {
+    "standings": [{
+      "Black": 46871,
+      "Hispanic": 55366,
+      "Other": 107399,
+      "White": 97553
+    }
+    ],
+    "year": "2010"
+  },
+  {
+    "standings": [
+      {
+      "Black": 43785,
+      "Hispanic": 47123,
+      "Other": 95831,
+      "White": 105203
+    }
+    ],
+    "year": "2013"
+  },
+  {
+    "standings": [{
+      "Black": 54949,
+      "Hispanic": 57396,
+      "Other": 112310,
+      "White": 119842
+  }
+    ],
+    "year": "2016"
+  }
+]

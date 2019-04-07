@@ -1,0 +1,10 @@
+#chart-area svg {
+	margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
