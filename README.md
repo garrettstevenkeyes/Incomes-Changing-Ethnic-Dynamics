@@ -1,4 +1,5 @@
 ##How to open the file
+
 To open the graph you have to use python to local host a server. 
 First in the console navigate to the greater folder holding all the files. 
 Then you have to run the command python -m http.server 8000 . 
@@ -7,6 +8,7 @@ From there you go to localhost:8000 in your browser. All browsers will work but 
 
 
 ##How it was made
+
 To make this I used  the d3.js library. First in the HTML I created a basic outline that would designate where my chart will go and included all of my dependencies.
 From there I created a basic CSS file to deiplay the chart in a block.
 I think created a JSON file in the path of my project.
@@ -26,6 +28,7 @@ Fromt there I needed to introduce the update function and re-shuffle code. I joi
 I then entered the rectangles x and y components into the update function, merged the data on recatangles and after the merger chose to re-enter the Y values and bar heights, as those are what is changing.
 
 ##Dependencies used
+
 HTML5
 CSS
 Javascript ES6
