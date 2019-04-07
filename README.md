@@ -30,6 +30,9 @@ I then entered the rectangles x and y components into the update function, merge
 ##Dependencies used
 
 HTML5
+
 CSS
+
 Javascript ES6
+
 d3.JS Library
